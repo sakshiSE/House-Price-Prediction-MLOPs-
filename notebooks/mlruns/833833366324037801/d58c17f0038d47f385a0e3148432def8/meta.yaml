@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/saksh/OneDrive/Desktop/House_Price_Prediction/notebooks/mlruns/833833366324037801/d58c17f0038d47f385a0e3148432def8/artifacts
+end_time: 1774007948420
+entry_point_name: ''
+experiment_id: '833833366324037801'
+lifecycle_stage: active
+run_id: d58c17f0038d47f385a0e3148432def8
+run_name: Ridge_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774007943881
+status: 3
+tags: []
+user_id: saksh

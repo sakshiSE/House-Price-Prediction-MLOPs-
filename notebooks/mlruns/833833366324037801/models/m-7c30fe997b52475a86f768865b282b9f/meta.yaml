@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/saksh/OneDrive/Desktop/House_Price_Prediction/notebooks/mlruns/833833366324037801/models/m-7c30fe997b52475a86f768865b282b9f/artifacts
+creation_timestamp: 1774007933271
+experiment_id: '833833366324037801'
+last_updated_timestamp: 1774007938630
+model_id: m-7c30fe997b52475a86f768865b282b9f
+model_type: null
+name: LinearRegression_model
+source_run_id: d3fc9a656a634ffc8a9cac6918bb6e46
+status: 2
+status_message: null

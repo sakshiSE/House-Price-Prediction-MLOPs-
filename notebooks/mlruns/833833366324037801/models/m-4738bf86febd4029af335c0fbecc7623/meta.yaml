@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/saksh/OneDrive/Desktop/House_Price_Prediction/notebooks/mlruns/833833366324037801/models/m-4738bf86febd4029af335c0fbecc7623/artifacts
+creation_timestamp: 1774007948535
+experiment_id: '833833366324037801'
+last_updated_timestamp: 1774007953182
+model_id: m-4738bf86febd4029af335c0fbecc7623
+model_type: null
+name: DecisionTree_model
+source_run_id: c34e2194e7b54b67b23b10a56d96bb8b
+status: 2
+status_message: null

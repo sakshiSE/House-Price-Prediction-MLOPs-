@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/saksh/OneDrive/Desktop/House_Price_Prediction/notebooks/mlruns/833833366324037801/c34e2194e7b54b67b23b10a56d96bb8b/artifacts
+end_time: 1774007953189
+entry_point_name: ''
+experiment_id: '833833366324037801'
+lifecycle_stage: active
+run_id: c34e2194e7b54b67b23b10a56d96bb8b
+run_name: Decision_Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774007948502
+status: 3
+tags: []
+user_id: saksh

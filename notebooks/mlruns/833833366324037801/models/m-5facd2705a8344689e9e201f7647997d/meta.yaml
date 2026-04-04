@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/saksh/OneDrive/Desktop/House_Price_Prediction/notebooks/mlruns/833833366324037801/models/m-5facd2705a8344689e9e201f7647997d/artifacts
+creation_timestamp: 1774008217953
+experiment_id: '833833366324037801'
+last_updated_timestamp: 1774008223010
+model_id: m-5facd2705a8344689e9e201f7647997d
+model_type: null
+name: best_model
+source_run_id: 665c5230147145968be1bdf0df596de1
+status: 2
+status_message: null

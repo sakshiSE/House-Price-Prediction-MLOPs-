@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/saksh/OneDrive/Desktop/House_Price_Prediction/notebooks/mlruns/833833366324037801/d3fc9a656a634ffc8a9cac6918bb6e46/artifacts
+end_time: 1774007938636
+entry_point_name: ''
+experiment_id: '833833366324037801'
+lifecycle_stage: active
+run_id: d3fc9a656a634ffc8a9cac6918bb6e46
+run_name: Linear_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774007933202
+status: 3
+tags: []
+user_id: saksh
