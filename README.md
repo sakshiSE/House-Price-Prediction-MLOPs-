@@ -6,7 +6,7 @@ An end-to-end Machine Learning project that predicts house prices based on prope
 
 ##  Project Overview
 
-The goal of this project is to build a reliable machine learning model that estimates house prices using various housing attributes. The project includes the complete machine learning workflow—from data preprocessing and model training to serving predictions through a REST API.
+The goal of this project is to build a reliable machine learning model that estimates house prices using various housing attributes. The project includes the complete machine learning workflow—from data preprocessing and model training to serving predictions through a  API.
 
 ---
 
@@ -133,26 +133,6 @@ Then visit:
 http://localhost:8000/docs
 ```
 
----
-
-##  Input Features
-
-The model uses the following housing features:
-
-- Area
-- Bedrooms
-- Bathrooms
-- Stories
-- Main Road Access
-- Guest Room
-- Basement
-- Hot Water Heating
-- Air Conditioning
-- Parking
-- Preferred Area
-- Furnishing Status
-
----
 
 ##  Machine Learning Workflow
 
