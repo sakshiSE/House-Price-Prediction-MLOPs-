@@ -9,8 +9,13 @@ logging.basicConfig(level=logging.INFO)
 
 app = FastAPI()
 
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+MODEL_PATH = BASE_DIR / "best_model.pkl"
+
 # Load model
-model = joblib.load("/app/best_model.pkl")
+model = joblib.load(MODEL_PATH)
 
 
 @app.get("/")
